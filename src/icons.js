@@ -1,0 +1,38 @@
+
+import {
+  faPersonWalking,
+  faHeart,
+  faHouse,
+  faUserNurse,
+  faChartLine,
+  faFaceGrinWide,
+  faHandshakeAngle,
+  faPeopleGroup,
+  faBandage,
+  faSyringe,
+  faBrain,
+  faCapsules,
+  faHospital,
+  faFaceSmile,
+  faKitMedical,
+  faSuitcaseMedical,
+} from "@fortawesome/free-solid-svg-icons";
+
+export {
+  faPersonWalking,
+  faHeart,
+  faHouse,
+  faUserNurse,
+  faChartLine,
+  faFaceGrinWide,
+  faHandshakeAngle,
+  faPeopleGroup,
+  faBandage,
+  faSyringe,
+  faBrain,
+  faCapsules,
+  faHospital,
+  faFaceSmile,
+  faKitMedical,
+  faSuitcaseMedical,
+};
