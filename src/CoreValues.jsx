@@ -9,7 +9,7 @@ const values = [
   "We ignite creative collaboration.",
 ];
 
-export function CoreValues() {
+export default function CoreValues() {
   return (
     <div className="container my-4">
       <div className="row g-4 justify-content-center">
