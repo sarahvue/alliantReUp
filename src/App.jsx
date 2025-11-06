@@ -1,13 +1,13 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./navigation";
-import CoreValues from "./CoreValues";
+import Leadership from "./Leadership";
 
 function App() {
   return (
     <div className="container">
       <Navigation />
-      <CoreValues />
+      <Leadership />
     </div>
   );
 }
